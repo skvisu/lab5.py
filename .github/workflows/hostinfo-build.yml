@@ -26,4 +26,3 @@ jobs:
       run: |
         python -m py_compile python/hostinfo_server.py
         ls -lR python/
-
